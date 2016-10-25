@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+body {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.animes {
+  margin-top: 50px;
+  overflow: hidden;
+}
+
+.animes a {
+  float: left;
+  width: 20%;
+  color: #333;
+  padding: 0 0.5%;
+  margin-bottom: 25px;
+  text-decoration: none;
+}
+
+.animes .image {
+  height: 0;
+  position: relative;
+  padding-bottom: 144.8979%;
+}
+
+.animes img {
+  top: 0;
+  width: 100%;
+  display: block;
+  position: absolute;
+}
+
+.animes p {
+  width: 100%;
+  padding: 15px 0;
+  font-size: 14px;
+  overflow: hidden;
+  text-align: center;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Cowboy Bebop",
+    "image": "/images/hNSma.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cowboy Bebop: Tengoku no Tobira",
+    "image": "/images/cowboy-bebop-54a5a44824671.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Trigun",
+    "image": "/images/6sW2L3t.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Witch Hunter Robin",
+    "image": "/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Beet the Vandel Buster",
+    "image": "/images/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Eyeshield 21",
+    "image": "/images/21646l.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Honey and Clover",
+    "image": "/images/2376-anime.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Hungry Heart: Wild Striker",
+    "image": "/images/1071.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Initial D Fourth Stage",
+    "image": "/images/latest.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Monster",
+    "image": "/images/o8YKAfA.jpg"
+  }
+]
